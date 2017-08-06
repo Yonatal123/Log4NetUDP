@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Log4NetUdpReceiver\Log4NetUdpReceiver\bin\Debug\Log4NetUdpReceiver.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Log4NetUdpReceiver\Log4NetUdpReceiver\bin\Debug\Log4NetUdpReceiver.exe
+c:\users\user\documents\visual studio 2017\Projects\Log4NetUdpReceiver\Log4NetUdpReceiver\bin\Debug\Log4NetUdpReceiver.pdb
+c:\users\user\documents\visual studio 2017\Projects\Log4NetUdpReceiver\Log4NetUdpReceiver\obj\Debug\Log4NetUdpReceiver.exe
+c:\users\user\documents\visual studio 2017\Projects\Log4NetUdpReceiver\Log4NetUdpReceiver\obj\Debug\Log4NetUdpReceiver.pdb
